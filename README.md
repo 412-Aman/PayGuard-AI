@@ -1,16 +1,6 @@
 # 🤖 AI Payment & Trading Intelligence Platform
 
 > **Enterprise-Grade High-Frequency Trading Simulation & Real-Time Fraud Detection System**
-
-![System Status](https://img.shields.io/badge/Status-Operational-green) ![AI](https://img.shields.io/badge/AI-Integrated-blue) ![Security](https://img.shields.io/badge/Security-Enterprise-red)
-
-## 📺 Project Demo
-[![Watch Demo Video](https://placehold.co/600x340/000000/FFFFFF/png?text=▶+Watch+AI+Trading+System+Demo&font=roboto)](https://drive.google.com/file/d/1aPOIUU8oTNiG_BVevMQfMyzOgKWaavSw/view?usp=sharing)
-
-> **Note**: Click the image above to watch the full system demonstration.
-
----
-
 ## 🌐 Live Demo & Testing
 
 > **⚠️ IMPORTANT: Backend Instability Notice**
